@@ -10,7 +10,7 @@
 
 本插件适用于[go-cqhttp](https://github.com/Mrs4s/go-cqhttp)中的http通信模式 和 [kook](kookapp.cn)的websocket模式
 
-测试环境：[go-cqhttp1.1.0](https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.1.0) / [kook机器人](https://developer.kookapp.cn/app/index)+[paper1.20](https://papermc.io/downloads/paper)+[zulujdk17](https://www.azul.com/downloads)
+测试环境：[go-cqhttp1.1.0](https://github.com/Mrs4s/go-cqhttp/releases/tag/v1.1.0) / [kook机器人](https://developer.kookapp.cn/app/index)+[folia-1.20.4](https://github.com/papermc/folia)+[zulujdk17](https://www.azul.com/downloads)
 
 适用Minecraft Java版本：全版本
 （低版本如果出现数据库报错请先检查config.yml）
